@@ -40,5 +40,7 @@ You can modify the value of this variable in order to collect more  Umbrella DNS
 
 ## XDR Workflow
 
-The following XDR worflow uses the sale principle as the python script. With another purpose which is to check if some internal machines reqested for access to a list of risky domains you manually define.
+The following XDR worflow uses the same principle as the python script. 
+
+With an addtionnal purpose which is to check if some internal machines reqested for access to a list of risky domains you manually define.
 
