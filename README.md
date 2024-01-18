@@ -44,3 +44,5 @@ The following XDR worflow uses the same principle as the python script.
 
 With an addtionnal purpose which is to check if some internal machines reqested for access to a list of risky domains you manually define.
 
+[XDR_Get_Umbrella_DNS_Actitivity](https://github.com/pcardotatgit/XDR_Workflows_and_Stuffs/tree/master/500-SecureX_Workflow_examples/Workflows/XDR_Get_Umbrella_DNS_Actitivity)
+
